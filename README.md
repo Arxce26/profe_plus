@@ -12,7 +12,7 @@ Sistema integral para profesores desarrollado con **React (Vite)** y **PHP**. Ge
 ## 🚀 Guía de Instalación para Colaboradores
 
 ### 1. Clonar el Proyecto
-Navega a tu carpeta de servidor local (`htdocs`) y ejecuta:
+Navega en tu terminal o cmd a tu carpeta de servidor local (`htdocs`) y ejecuta:
 ```cmd
 git clone [https://github.com/Arxce26/profe_plus.git](https://github.com/Arxce26/profe_plus.git)
 ```
