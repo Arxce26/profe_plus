@@ -5,7 +5,7 @@ Sistema integral para profesores desarrollado con **React (Vite)** y **PHP**. Ge
 ## 🛠️ Requisitos del Sistema
 * **XAMPP** (con PHP 8.0 o superior)
 * **Node.js** (v20 LTS o superior)
-* **MySQL / MariaDB**
+* **MySQL / MariaDB** (ya viene integrado con xampp)
 
 ---
 
