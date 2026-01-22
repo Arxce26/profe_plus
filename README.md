@@ -1,4 +1,4 @@
-# 🍎 Profe Plus - Sistema de Gestión Escolar
+# 🍎 Profe Plus - Sistema de Gestión Escolar (para profesores de matematicas)
 
 Sistema integral para profesores desarrollado con **React (Vite)** y **PHP**. Gestiona grupos, asistencia, calificaciones y planeaciones desde un solo lugar.
 
